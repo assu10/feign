@@ -1,2 +1,2 @@
 # feign
-SpringCloud Feign vs REST Template
+SpringCloud Feign
